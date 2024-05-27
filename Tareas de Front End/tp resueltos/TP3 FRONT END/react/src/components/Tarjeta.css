@@ -1,0 +1,25 @@
+
+
+.tarjeta-presentacion {
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    background-color: #ef5f5fe5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tarjeta-presentacion h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.tarjeta-presentacion p {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.tarjeta-presentacion strong {
+    font-weight: bold;
+}
